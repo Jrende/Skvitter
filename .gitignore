@@ -1,0 +1,6 @@
+target
+consumer.properties
+access.properties
+lib
+activator*
+.sbtserver
